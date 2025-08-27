@@ -5,7 +5,7 @@ function App() {
   
 
   return (
-    <div className='container'>
+    <div className='App'style={{marginTop: 2000}}>
     <h1>MINHA LISTA COM FRAGMENTS!</h1>
     <Lista/>
     </div>
